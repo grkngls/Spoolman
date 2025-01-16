@@ -128,9 +128,9 @@
             "showQRCode": "Drucke QR Code",
             "useHTTPUrl": {
                 "label": "QR Code Link",
-                "tooltip": "Verwendet einen proprietären Link, der nur funktioniert, wenn er mit der (standart) Scanfunktion von Spoolman gescannt wird. Die URL verwendet entweder die in den Einstellungen angegebene Basis-URL oder die aktuelle Seiten-URL, wenn diese nicht festgelegt ist.",
+                "tooltip": "Verwendet einen proprietären Link, der nur funktioniert, wenn er mit der (Standard) Scanfunktion von Spoolman gescannt wird. Die URL verwendet entweder die in den Einstellungen angegebene Basis-URL oder die aktuelle Seiten-URL, wenn diese nicht festgelegt ist.",
                 "options": {
-                    "default": "Standart",
+                    "default": "Standard",
                     "url": "URL"
                 },
                 "preview": "Vorschau:"
